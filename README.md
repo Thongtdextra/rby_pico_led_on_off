@@ -9,7 +9,7 @@ git clone https://github.com/raspberrypi/pico-examples.git
 
 # clone code testing led
 
-git clone https://github.com/Thongtdextra/rby_pico_testingled.git
+git clone https://github.com/Thongtdextra/rby_pico_led_on_off.git
 
 # mkdir build and make file executed
 mkdir build
